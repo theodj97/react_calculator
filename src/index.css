@@ -1,0 +1,13 @@
+:root {
+    --black: rgb(0, 0, 0);
+    --white: #fff;
+    --transparent: transparent;
+}
+
+.bg-black {
+    background-color: var(--black);
+}
+
+.bg-gray {
+    background-color: rgb(150, 150, 150);
+}
