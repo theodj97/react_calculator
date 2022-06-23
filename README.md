@@ -1,1 +1,2 @@
 -Task 1: Remove all React components that I don't need.
+-Task 2: Import bootstrap and create the layout, without components.
